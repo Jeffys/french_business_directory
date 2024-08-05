@@ -1,0 +1,3 @@
+<odoo>
+    <menuitem id="menu_business_directory" name="Business Directory" web_icon="fr_business_directory,static/description/icon.png"/>
+</odoo>
