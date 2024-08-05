@@ -1,0 +1,277 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* fr_business_directory
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 17.0+e\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-01 07:44+0000\n"
+"PO-Revision-Date: 2024-08-01 07:44+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: fr_business_directory
+#: model:ir.model.fields,field_description:fr_business_directory.field_matching_etablissement__date_debut_activite
+#: model:ir.model.fields,field_description:fr_business_directory.field_siret_wizard_result__date_debut_activite
+msgid "Activity Start Date"
+msgstr "Date de début d'activité"
+
+#. module: fr_business_directory
+#: model:ir.model.fields,field_description:fr_business_directory.field_matching_etablissement__adresse
+msgid "Address"
+msgstr "Adresse"
+
+#. module: fr_business_directory
+#: model:ir.model.fields,field_description:fr_business_directory.field_matching_etablissement__etat_administratif
+#: model:ir.model.fields,field_description:fr_business_directory.field_siret_wizard_result__etat_administratif
+msgid "Administratif Status"
+msgstr "Statut administratif"
+
+#. module: fr_business_directory
+#: model_terms:ir.ui.view,arch_db:fr_business_directory.view_siret_wizard_result_form
+msgid "Are you sure want to overwrite the Data?"
+msgstr "Êtes-vous sûr de vouloir écraser les données ?"
+
+#. module: fr_business_directory
+#: model_terms:ir.ui.view,arch_db:fr_business_directory.res_partner_form_inherit
+msgid "Business Directory"
+msgstr "Annuaire des entreprises"
+
+#. module: fr_business_directory
+#: model_terms:ir.ui.view,arch_db:fr_business_directory.view_siret_wizard_form
+msgid "Cancel"
+msgstr "Annuler"
+
+#. module: fr_business_directory
+#: model:ir.model.fields,field_description:fr_business_directory.field_matching_etablissement__city
+#: model:ir.model.fields,field_description:fr_business_directory.field_siret_wizard_result__city
+msgid "City"
+msgstr "Ville"
+
+#. module: fr_business_directory
+#: model:ir.model.fields,field_description:fr_business_directory.field_matching_etablissement__date_fermeture
+#: model:ir.model.fields,field_description:fr_business_directory.field_siret_wizard_result__date_fermeture
+msgid "Closing Date"
+msgstr "Date de fermeture"
+
+#. module: fr_business_directory
+#: model:ir.model,name:fr_business_directory.model_res_partner
+msgid "Contact"
+msgstr "Contact"
+
+#. module: fr_business_directory
+#: model:ir.model.fields,field_description:fr_business_directory.field_matching_etablissement__computed_activite_principale
+msgid "Core Business"
+msgstr "Activité principale"
+
+#. module: fr_business_directory
+#: model:ir.model.fields,field_description:fr_business_directory.field_matching_etablissement__activite_principale
+#: model:ir.model.fields,field_description:fr_business_directory.field_siret_wizard_result__activite_principale
+msgid "Core Bussines"
+msgstr "Activité principale"
+
+#. module: fr_business_directory
+#: model:ir.model.fields,field_description:fr_business_directory.field_matching_etablissement__create_uid
+#: model:ir.model.fields,field_description:fr_business_directory.field_siret_wizard__create_uid
+#: model:ir.model.fields,field_description:fr_business_directory.field_siret_wizard_result__create_uid
+msgid "Created by"
+msgstr "Créé par"
+
+#. module: fr_business_directory
+#: model:ir.model.fields,field_description:fr_business_directory.field_matching_etablissement__create_date
+#: model:ir.model.fields,field_description:fr_business_directory.field_siret_wizard__create_date
+#: model:ir.model.fields,field_description:fr_business_directory.field_siret_wizard_result__create_date
+msgid "Created on"
+msgstr "Créé le"
+
+#. module: fr_business_directory
+#: model:ir.model.fields,field_description:fr_business_directory.field_matching_etablissement__date_creation
+#: model:ir.model.fields,field_description:fr_business_directory.field_siret_wizard_result__date_creation
+msgid "Date Creation"
+msgstr "Date de création"
+
+#. module: fr_business_directory
+#: model:ir.model.fields,field_description:fr_business_directory.field_siret_wizard_result__department
+msgid "Department"
+msgstr "Département"
+
+#. module: fr_business_directory
+#: model:ir.model.fields,field_description:fr_business_directory.field_matching_etablissement__display_name
+#: model:ir.model.fields,field_description:fr_business_directory.field_siret_wizard__display_name
+#: model:ir.model.fields,field_description:fr_business_directory.field_siret_wizard_result__display_name
+msgid "Display Name"
+msgstr "Nom d'affichage"
+
+#. module: fr_business_directory
+#: model:ir.model.fields,field_description:fr_business_directory.field_matching_etablissement__id
+#: model:ir.model.fields,field_description:fr_business_directory.field_siret_wizard__id
+#: model:ir.model.fields,field_description:fr_business_directory.field_siret_wizard_result__id
+msgid "ID"
+msgstr "ID"
+
+#. module: fr_business_directory
+#: model:ir.model.fields,field_description:fr_business_directory.field_matching_etablissement__write_uid
+#: model:ir.model.fields,field_description:fr_business_directory.field_siret_wizard__write_uid
+#: model:ir.model.fields,field_description:fr_business_directory.field_siret_wizard_result__write_uid
+msgid "Last Updated by"
+msgstr "Dernière mise à jour par"
+
+#. module: fr_business_directory
+#: model:ir.model.fields,field_description:fr_business_directory.field_matching_etablissement__write_date
+#: model:ir.model.fields,field_description:fr_business_directory.field_siret_wizard__write_date
+#: model:ir.model.fields,field_description:fr_business_directory.field_siret_wizard_result__write_date
+msgid "Last Updated on"
+msgstr "Dernière mise à jour le"
+
+#. module: fr_business_directory
+#: model:ir.model.fields,field_description:fr_business_directory.field_matching_etablissement__latitude
+#: model:ir.model.fields,field_description:fr_business_directory.field_siret_wizard_result__latitude
+msgid "Latitude"
+msgstr "Latitude"
+
+#. module: fr_business_directory
+#: model:ir.model.fields,field_description:fr_business_directory.field_matching_etablissement__longitude
+#: model:ir.model.fields,field_description:fr_business_directory.field_siret_wizard_result__longitude
+msgid "Longitude"
+msgstr "Longitude"
+
+#. module: fr_business_directory
+#: model:ir.model,name:fr_business_directory.model_matching_etablissement
+msgid "Matching Establishment"
+msgstr "Établissement correspondant"
+
+#. module: fr_business_directory
+#: model:ir.model.fields,field_description:fr_business_directory.field_siret_wizard_result__matching_etablissements
+msgid "Matching Establishments"
+msgstr "Établissements correspondants"
+
+#. module: fr_business_directory
+#: model:ir.model.fields,field_description:fr_business_directory.field_matching_etablissement__name
+#: model:ir.model.fields,field_description:fr_business_directory.field_siret_wizard_result__name
+msgid "Name"
+msgstr "Nom"
+
+#. module: fr_business_directory
+#: model_terms:ir.ui.view,arch_db:fr_business_directory.view_siret_wizard_form
+msgid "Next <i class=\"fa fa-arrow-right\"/>"
+msgstr "Suivant <i class=\"fa fa-arrow-right\"/>"
+
+#. module: fr_business_directory
+#: model:ir.model.fields,field_description:fr_business_directory.field_siret_wizard__page_count
+msgid "Page Count"
+msgstr "Nombre de pages"
+
+#. module: fr_business_directory
+#: model:ir.model.fields,field_description:fr_business_directory.field_siret_wizard__page_number
+msgid "Page Number"
+msgstr "Numéro de page"
+
+#. module: fr_business_directory
+#: model:ir.model.fields,field_description:fr_business_directory.field_siret_wizard__partner_name
+msgid "Partner Name"
+msgstr "Nom du partenaire"
+
+#. module: fr_business_directory
+#: model:ir.model.fields,field_description:fr_business_directory.field_matching_etablissement__code_postal
+#: model:ir.model.fields,field_description:fr_business_directory.field_siret_wizard_result__post_code
+msgid "Post Code"
+msgstr "Code postal"
+
+#. module: fr_business_directory
+#: model_terms:ir.ui.view,arch_db:fr_business_directory.view_siret_wizard_form
+msgid "Prev"
+msgstr "Précédent"
+
+#. module: fr_business_directory
+#: model:ir.model.fields,field_description:fr_business_directory.field_matching_etablissement__region
+#: model:ir.model.fields,field_description:fr_business_directory.field_siret_wizard_result__region
+msgid "Region"
+msgstr "Région"
+
+#. module: fr_business_directory
+#: model:ir.model.fields,field_description:fr_business_directory.field_matching_etablissement__result_id
+msgid "Result"
+msgstr "Résultat"
+
+#. module: fr_business_directory
+#: model:ir.model.fields,field_description:fr_business_directory.field_siret_wizard__result_count
+#: model:ir.model.fields,field_description:fr_business_directory.field_siret_wizard_result__result_count
+msgid "Result Count"
+msgstr "Nombre de résultats"
+
+#. module: fr_business_directory
+#: model:ir.model.fields,field_description:fr_business_directory.field_siret_wizard__result_ids
+#: model_terms:ir.ui.view,arch_db:fr_business_directory.view_siret_wizard_form
+msgid "Results"
+msgstr "Résultats"
+
+#. module: fr_business_directory
+#: model_terms:ir.ui.view,arch_db:fr_business_directory.view_siret_wizard_form
+#: model_terms:ir.ui.view,arch_db:fr_business_directory.view_siret_wizard_result_form
+msgid "Results Found"
+msgstr "Résultats trouvés"
+
+#. module: fr_business_directory
+#: model_terms:ir.ui.view,arch_db:fr_business_directory.view_siret_wizard_result_form
+msgid "Select"
+msgstr "Sélectionner"
+
+#. module: fr_business_directory
+#: model:ir.model.fields,field_description:fr_business_directory.field_matching_etablissement__siret
+#: model:ir.model.fields,field_description:fr_business_directory.field_siret_wizard_result__siret
+msgid "Siret"
+msgstr "Siret"
+
+#. module: fr_business_directory
+#: model:ir.model,name:fr_business_directory.model_siret_wizard
+msgid "Siret Wizard"
+msgstr "Assistant Siret"
+
+#. module: fr_business_directory
+#: model:ir.model,name:fr_business_directory.model_siret_wizard_result
+#: model_terms:ir.ui.view,arch_db:fr_business_directory.view_siret_wizard_result_form
+msgid "Siret Wizard Result"
+msgstr "Résultat de l'assistant Siret"
+
+#. module: fr_business_directory
+#: model:ir.model.fields,field_description:fr_business_directory.field_matching_etablissement__social_reason
+#: model:ir.model.fields,field_description:fr_business_directory.field_res_partner__social_reason
+#: model:ir.model.fields,field_description:fr_business_directory.field_res_users__social_reason
+#: model:ir.model.fields,field_description:fr_business_directory.field_siret_wizard_result__social_reason
+msgid "Social Reason"
+msgstr "Raison sociale"
+
+#. module: fr_business_directory
+#: model:ir.model.fields,field_description:fr_business_directory.field_matching_etablissement__etat_administratif_display
+msgid "Status"
+msgstr "Statut"
+
+#. module: fr_business_directory
+#: model:ir.model.fields,field_description:fr_business_directory.field_siret_wizard_result__street
+msgid "Street"
+msgstr "Rue"
+
+#. module: fr_business_directory
+#: model:ir.model.fields,field_description:fr_business_directory.field_siret_wizard_result__street2
+msgid "Street 2"
+msgstr "Rue 2"
+
+#. module: fr_business_directory
+#: model:ir.model.fields,field_description:fr_business_directory.field_siret_wizard__total_pages
+msgid "Total Pages"
+msgstr "Nombre total de pages"
+
+#. module: fr_business_directory
+#: model:ir.model.fields,field_description:fr_business_directory.field_siret_wizard_result__wizard_id
+msgid "Wizard"
+msgstr "Assistant"
+
+#. module: fr_business_directory
+#: model_terms:ir.ui.view,arch_db:fr_business_directory.res_partner_form_inherit
+msgid "e.g. Lumber Inc"
+msgstr "ex. : Lumber Inc"
