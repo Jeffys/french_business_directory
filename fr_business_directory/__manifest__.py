@@ -13,10 +13,10 @@
     'license': 'LGPL-3',
 
     'category': 'Extra Tools',
-    'version': '17.0.1.0.7',
+    'version': '17.0.1.0.0',
     'application': False,
 
-    'depends': ['base' , 'l10n_fr'],
+    'depends': ['base', 'contacts', 'l10n_fr'],
 
     "data": [
         'security/ir.model.access.csv',
@@ -25,10 +25,12 @@
         "views/siret_wizard_views.xml",
     ],
     'images': [
-        'static/description/icon.png',
+        'static/description/banner.png',
     ],
 
     'assets': {
-    }
+    },
+    'price': 15,
+    'currency': "USD"
 }
 
