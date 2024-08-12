@@ -30,7 +30,5 @@
 
     'assets': {
     },
-    'price': 15,
-    'currency': "USD"
 }
 
