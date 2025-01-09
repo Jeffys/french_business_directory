@@ -6,7 +6,6 @@ import urllib.parse
 from odoo.tools import logging
 from datetime import datetime, timedelta, date
 from dateutil.relativedelta import relativedelta
-import phonenumbers
 from odoo.fields import Datetime
 import re
 from odoo.osv import expression
