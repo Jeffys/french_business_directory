@@ -43,6 +43,10 @@ Choisissez si les emails récupérés doivent être marqués comme lus ou rester
 
 #Filtrage des Emails Utilisateurs :
 Ignore automatiquement les emails envoyés par les utilisateurs internes d'Odoo.
+Lorsqu'un email est reçu d'un contact existant :
+- L'email apparaît dans l'historique de discussion du contact
+- Maintient un historique complet des communications avec vos contacts
+- Permet un suivi facile de toutes les interactions en un seul endroit
 
 #Validation des Contacts :
 Traite uniquement les emails provenant d'expéditeurs existants dans vos contacts.
@@ -53,6 +57,7 @@ Réduction de l'Encombrement : Ignore automatiquement le traitement des emails i
 Sécurité Renforcée : Traite uniquement les emails des contacts vérifiés dans votre base de données, réduisant le spam et les communications non autorisées.
 Meilleure Utilisation des Ressources : Optimise les ressources du serveur en ne traitant que les emails pertinents des expéditeurs connus.
 Flux de Communication Optimisé : Garantit que seuls les emails professionnels pertinents des contacts légitimes sont traités dans votre système Odoo.
+Historique de Communication Centralisé : Tous les emails des contacts apparaissent automatiquement dans leur historique de discussion respectif, offrant une vue à 360 degrés de toutes les interactions.
 
 ##Installation
 Téléchargez le module depuis ce dépôt.
@@ -67,7 +72,7 @@ Configurez l'option selon vos besoins :
 Une fois installé, le module améliore automatiquement votre processus de récupération d'emails avec les fonctionnalités de Contrôle du Statut de Lecture, Filtrage des Emails Utilisateurs et Validation des Contacts.
 
 ##Compatibilité
-Version d'Odoo : 17.0
+Version d'Odoo : 16.0
 
 #Licence
 Ce module est sous licence [LGPLv3 licensed](./LICENSE)
