@@ -39,12 +39,16 @@ Personal Email Usage
 ## [Personal Email Usage](https://www.doodex.net/en/blog/doodex-blog-2/sales-dashboard-example-with-odoo-88)
 Advanced controls for email fetching: read status, sender filtering, and contact validation.
 
-##Features
+## Features
 #Read Status Control:
 Choose whether fetched emails should be marked as read or remain unread in the email server.
 
 #User Email Filtering:
 Automatically skips emails sent from internal Odoo users.
+When an email is received from an existing contact:
+- The email will appear in the contact's chatter history
+- Maintains a complete communication history with your contacts
+- Allows easy tracking of all interactions in one place
 
 #Contact Validation:
 Only processes emails from senders that exist in your contacts.
@@ -55,6 +59,7 @@ Reduced Email Clutter: Automatically skip processing internal user emails, preve
 Improved Security: Only process emails from verified contacts in your database, reducing spam and unauthorized communications.
 Better Resource Utilization: Optimize server resources by processing only relevant emails from known senders.
 Streamlined Communication Flow: Ensure that only business-relevant emails from legitimate contacts are processed into your Odoo system.
+Centralized Communication History: All emails from contacts automatically appear in their respective contact's chatter, providing a complete 360-degree view of all interactions.
         
 ## Installation
 Download the module from this repository.
